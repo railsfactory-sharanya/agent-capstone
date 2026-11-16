@@ -1,0 +1,9 @@
+.venv/
+.env
+.DS_Store
+
+# Bytecode next to the scripts after they run
+__pycache__/
+
+# Built by seed.py. Run the script again to recreate it.
+data/
